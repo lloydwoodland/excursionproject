@@ -1,0 +1,58 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p{
+  font-family: verdana;
+}
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  font-size: 16px;
+  color: Aquamarine;
+  text-align: center;
+}
+
+h3{
+  font-weight: 300;
+  font-size: 43px;
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+
+}
+
+body{
+  background-color: black;
+}
+#imagecamp{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#imagephone{
+  display: block;
+  margin: 10px auto;
+  text-align: center;
+}
+
+#footer p{
+  text-align: right;
+}
+
+.video{
+  text-align: center;
+}
